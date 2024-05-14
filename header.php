@@ -27,9 +27,7 @@
                 </ul>
             </div>
             <div class="burger">
-                <div class="line"></div>
-                <div class="line"></div>
-                <div class="line"></div>
+            <img src="img/bars.svg" alt="menu burger" class="menu_burger">
             </div>
         </nav>
     </header>

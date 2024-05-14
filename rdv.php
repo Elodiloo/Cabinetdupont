@@ -23,21 +23,21 @@
 
         <h1 id="titre" class="text-center">Prendre rendez-vous</h1>
 
-        <h3>1 - Choisissez un motif de consultation :</h3>
+        <h3 class="text-center">1 - Choisissez un motif de consultation :</h3>
         <select id="motif">
             <option value="option1">Examen annuel</option>
             <option value="option2">Urgence dentaire</option>
             <option value="option3">Consultation d'orthodontie</option>
         </select>
 
-        <h3>2 - Choisissez un rendez-vous :</h3>
+        <h3 class="text-center">2 - Choisissez un rendez-vous :</h3>
         <div id="calendar"></div>
         <div id="appointment-form">
             <input type="date" id="datecalendar">
             <div id="available-slots"></div>
         </div>
 
-        <h3>3 - Remplissez vos informations :</h3>
+        <h3 class="text-center">3 - Remplissez vos informations :</h3>
 
         <div id="forms" class="row">
             <div id="form1" class="col-50 row2">

@@ -60,7 +60,7 @@
 
             <button type="submit" class="rdv-btn">PRENDRE RENDEZ-VOUS</button>
 
-            <h3>
+            <h3 class="text-center">
                 L'équipe du Docteur Jean DUPONT vous accueille :
             </h3>
         </div>
@@ -73,7 +73,7 @@
                     <h3>De 9h00 à 18h00</h3>
                 </div>
             </div>
-            <div class="col-50 col-sm-100">
+            <div class="col-50 col-sm-100 mt-30">
                 <div class="bg-light ml-100 mr-100 p-10 b-radius-50">
                     <img class="img-service" src="img/map.svg" alt="audit">
                     <h3>22 rue du Dortier</h3>

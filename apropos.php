@@ -21,17 +21,17 @@
     <main>
 
         <h1 id="titre" class="text-center">A propos du cabinet White Smile</h1>
-        <div id="presentationdoctor" class="icon-container border">
-            <div class="col-25">
-                <img src="img/image4.jpg" alt="dupont" class="image-arrondie">
-                <h4 text-center>1978</h4>
-                <h4 text-center> Diplômé d'État de docteur en chirurgie dentaire</h4>
-                <h4 text-center>Faculté de chirurgie dentaire - Paris 7</h4>
+        <div id="presentationdoctor" class="icon-container border-sh row">
+            <div class="col-25 col-sm-100 text-center">
+                <img src="img/image4.jpg" alt="dupont" class="image-arrondie border-sh">
+                <h4>1978</h4>
+                <h4> Diplômé d'État de docteur en chirurgie dentaire</h4>
+                <h4>Faculté de chirurgie dentaire - Paris 7</h4>
             </div>
-            <div class="col-75">
+            <div class="col-75 col-sm-100 mr-50">
                 <h2 class="text-center">Le cabinet White Smile est dirigé par le Docteur Jean DUPONT,
                     chirurgien-dentiste.</h2>
-                <h3>Le chirurgien-dentiste, aussi appelé dentiste, prend en charge les problèmes bucco-dentaires. Ce
+                <h3 class="txt-j">Le chirurgien-dentiste, aussi appelé dentiste, prend en charge les problèmes bucco-dentaires. Ce
                     spécialiste de la dentition s'occupe aussi bien
                     des dents, des gencives et des nerfs que des maxillaires. Les patients peuvent notamment le
                     consulter pour un détartrage, le soin d'une carie, le soulagement de gencives irritées ou encore
